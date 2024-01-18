@@ -19,3 +19,4 @@ This project combines state-of-the-art gym equipment with personalized training 
 1. Clone the repository
    ```bash
    git clone https://github.com/yourusername/gym-project.git
+Made by Nupur
